@@ -18,8 +18,6 @@
     isOpen
   },
   ducks: {
-    isFetching,
-    error,
     [duckId]: {
       lastUpdated,
       info: {
